@@ -20,7 +20,7 @@ As técnicas de redução de dimensionalidade têm vasta aplicação, já que po
 
 Nesse projeto  usamos a imagem da Lena
 
-![resultado.jpg](https://github.com/guilherminog/Projeto_reducao_de_dimensionalidade_em_imagens/blob/main/img/resultado.jpg?raw=true)
+![resultado.jpg]((https://github.com/guilherminog/Projeto_reducao_de_dimensionalidade_em_imagens/blob/main/Projeto_reducao_de_dimensionalidade_em_imagens/img/resultado.jpg)raw=true)
 
 
 
